@@ -1,4 +1,4 @@
-![istockphoto-148987116-612x612-removebg-preview (1)]([https://github.com/user-attachments/assets/260ddcf4-4de8-4ce4-b64a-52bf3ccfbf0b](https://i.imgur.com/9XwN1qX.png))
+!([https://github.com/user-attachments/assets/260ddcf4-4de8-4ce4-b64a-52bf3ccfbf0b](https://i.imgur.com/9XwN1qX.png)
 
 # About Me 💻
 - Just a russian guy 
