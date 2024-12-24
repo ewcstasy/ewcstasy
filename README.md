@@ -6,3 +6,4 @@
 
 # Socials
 - @zivertss on telegram, 7reels on discord
+- email: steriods@internet.ru
