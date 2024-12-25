@@ -1,4 +1,4 @@
-![About Me Image](https://i.imgur.com/9XwN1qX.png)
+![About Me Image]((https://i.imgur.com/3LQMxsR.png))
 
 # About Me 💻
 - Just a russian guy 
