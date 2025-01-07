@@ -5,5 +5,5 @@
 - Currently learning javascript, C++ and C#
 
 # Socials
-- @zivertss on telegram, 7reels on discord
+- @zivertss on telegram, 7xvl on discord
 - email: steriods@internet.ru
